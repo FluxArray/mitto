@@ -4,6 +4,8 @@ A full-screen, controller-first game launcher for macOS, in the style of Apple T
 Native Mac games, CrossOver and Wineskin wrappers and ports, all in one place, with artwork fetched for you.
 [Download the latest release](https://github.com/FluxArray/mitto/releases/latest)
 
+![1](docs/screenshots/1.jpg)
+![2](docs/screenshots/2.jpg)
 
 ## Features
 
