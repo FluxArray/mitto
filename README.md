@@ -3,6 +3,8 @@
 A full-screen, controller-first game launcher for macOS, in the style of Apple TV and PS5.
 Native Mac games, CrossOver and Wineskin wrappers and ports, all in one place, with artwork fetched for you.
 [Download the latest release](https://github.com/FluxArray/mitto/releases/latest)
+
+
 ## Features
 
 - **Console-style interface:** a blurred backdrop from the selected game's art, a banner with logo, description and Play button, and a carousel with spring animations.
